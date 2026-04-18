@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../03-grouping-selectors"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "04-chaining-selectors"
+	}
+}
